@@ -3,5 +3,7 @@
 ## Requirements
 Some important required packages include:
 * Python==3.8
+* torch==1.9.0
+* Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
 ## Dataset
 If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/drive/my-drive) 
