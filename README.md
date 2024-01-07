@@ -12,10 +12,10 @@ If you need MRI breast tumor segmentation weights, Download the [model checkpoin
 1.Clone the repo
 2.Put the data in data/
 3.Train the model and infers
-···
+```
 python main.py
-···
+```
 4.If you just need to test the model
-···
+```
 python test.py
-···
+```
