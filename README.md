@@ -6,4 +6,5 @@ Some important required packages include:
 * torch==1.9.0
 * Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
 ## Dataset
+A total of three datasets were used in our paper, among which two private datasets were breast cancer and thymus tumor, and the other dataset was an open source breast tumor dataset.If you want to download this dataset you can refer to this [paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00195-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389923001952%3Fshowall%3Dtrue).
 If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/file/d/1Y7l5W7KZMoUWKrwhca3mmyzla6dtUjm4/view?usp=sharing)
