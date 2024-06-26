@@ -1,4 +1,4 @@
-# Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI, under reviewed by Transaction on Medical Imaging
+# Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI
 ## Paper
 ## Requirements
 Some important required packages include:
