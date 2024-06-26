@@ -33,7 +33,7 @@ YNpre
 If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/file/d/1Y7l5W7KZMoUWKrwhca3mmyzla6dtUjm4/view?usp=sharing)
 ## Usage
 1.Clone the repo\
-2.Put the data in data/\
+2.Put the data in data\
 3.Train the model and infers
 ```
 python main.py
