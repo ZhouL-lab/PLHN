@@ -30,7 +30,7 @@ YNpre
     ├── ...
     └── Yunnan_100_GT.nii.gz
 ```
-If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/file/d/1Y7l5W7KZMoUWKrwhca3mmyzla6dtUjm4/view?usp=sharing)
+If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link)
 ## Usage
 1.Clone the repo\
 2.Put the data in data\
