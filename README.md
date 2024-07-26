@@ -43,7 +43,7 @@ If you need MRI breast tumor segmentation weights, Download the [model checkpoin
 ## Training
 Train the model and infers
 ```
-python main.py
+python training/main.py
 ```
 ## Evaluation
 1.Clone the repo\
@@ -57,7 +57,7 @@ PLHN/checkpoints_RUENT_8/runet_4/model
 ```
 4.If you just need to test the model
 ```
-python test.py
+python evaluation/test.py
 ```
 ## Citation
 If you use our work, please consider citing:
