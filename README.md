@@ -1,4 +1,4 @@
-# Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI
+# Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI acceoted by Transaction on Medical Imaging
 ## Paper
 Automated breast tumor segmentation on the basis of dynamic contrast-enhancement magnetic resonance imaging (DCE-MRI) has shown great promise in clinical practice, particularly for identifying the presence of breast disease. This paper presents a prototype learning guided hybrid network (PLHN) approach that combines the CNN and transformer layers with two parallel encoder subnetworks to effectively segment breast tumors.
 ### Architecture overview of PLHN
