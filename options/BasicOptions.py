@@ -33,7 +33,7 @@ class BaseOptions():
         parser.add_argument('--patch_stride', type=int, default=(8,64,64), help='the stride of patch')
         parser.add_argument('--data_folder', type=int, default=5, help='the folder of datasets(1-3) 0 for debug')
         parser.add_argument('--gpu_ids', type=str, default='3', help='gpu ids: e.g. 0  0,1,2, 0,2. use -1 for CPU')
-        parser.add_argument('--task_name', type=str, default='task1_breast', help='the current task name')
+        parser.add_argument('--task_name', type=str, default='task1_breast_tumor', help='the current task name')
         self.initialized = True
         return parser
 
