@@ -18,7 +18,7 @@ class BaseOptions():
         """Define the common options that are used in both training and test."""
         # basic parameters
         
-        parser.add_argument('--checkpoints_dir', type=str, default='./checkpoints_RUENT_8', help='models are saved here')
+        parser.add_argument('--checkpoints_dir', type=str, default='./checkpoints', help='models are saved here')
         parser.add_argument('--num_threads', default=4, type=int, help='# threads for loading data')
         
         parser.add_argument('--batch_size', type=int, default=2, help='input train batch size')
@@ -33,7 +33,7 @@ class BaseOptions():
         parser.add_argument('--patch_stride', type=int, default=(8,64,64), help='the stride of patch')
         parser.add_argument('--data_folder', type=int, default=5, help='the folder of datasets(1-3) 0 for debug')
         parser.add_argument('--gpu_ids', type=str, default='3', help='gpu ids: e.g. 0  0,1,2, 0,2. use -1 for CPU')
-        parser.add_argument('--task_name', type=str, default='runet_4', help='the current task name')
+        parser.add_argument('--task_name', type=str, default='task1_breast', help='the current task name')
         self.initialized = True
         return parser
 
