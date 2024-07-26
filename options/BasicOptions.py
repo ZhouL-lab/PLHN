@@ -21,12 +21,12 @@ class BaseOptions():
         parser.add_argument('--checkpoints_dir', type=str, default='./checkpoints_RUENT_8', help='models are saved here')
         parser.add_argument('--num_threads', default=4, type=int, help='# threads for loading data')
         
-        parser.add_argument('--batch_size', type=int, default=12, help='input train batch size')
-        parser.add_argument('--test_batch', type=int, default=16, help='input test batch size')
-        parser.add_argument('--epoch', type=int, default=300, help='number of epochs with the initial learning rate')
+        parser.add_argument('--batch_size', type=int, default=2, help='input train batch size')
+        parser.add_argument('--test_batch', type=int, default=2, help='input test batch size')
+        parser.add_argument('--epoch', type=int, default=500, help='number of epochs with the initial learning rate')
         parser.add_argument('--step', type=int, default=50, help='number of epochs to adjust learning rate')
         parser.add_argument('--datapath', default = r'/data/', help='path of the PET raw data')
-        parser.add_argument('--lr', type=float, default=0.015, help='initial learning rate of net for adam') #0.005
+        parser.add_argument('--lr', type=float, default=0.01, help='initial learning rate of net for adam') #0.005
         parser.add_argument('--model_save_fre', type=int, default=50, help='frequency of saving model') 
         parser.add_argument('--test_fre', type=int, default=600, help='frequency of testing the model')
         parser.add_argument('--patch_size', type=int, default=(32,128,128), help='the size of crop patch')
