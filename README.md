@@ -53,7 +53,7 @@ PLHN/data
 ```
 3.Download [model](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link) weights and paste latest_model.pth in the following path:
 ```
-PLHN/checkpoints_RUENT_8/runet_4/model
+PLHN/checkpoints/task1_breast_tumor/model
 ```
 4.If you just need to test the model
 ```
