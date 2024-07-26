@@ -32,14 +32,14 @@ YNpre
 ```
 If you need MRI breast tumor segmentation weights, Download the [model checkpoint](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link)\
 ## Training
-## Evaluation
-1.Clone the repo\
-2.Put the data in data\
-3.Train the model and infers
+Train the model and infers
 ```
 python main.py
 ```
-4.If you just need to test the model
+## Evaluation
+1.Clone the repo\
+2.Put the data in data\
+3.If you just need to test the model
 ```
 python test.py
 ```
