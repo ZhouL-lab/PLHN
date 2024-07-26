@@ -47,8 +47,15 @@ python main.py
 ```
 ## Evaluation
 1.Clone the repo\
-2.Put the data in data\
-3.If you just need to test the model
+2.Download the [dataset](https://drive.google.com/file/d/1ciSV337l9uyoou2GfbSRHPxHH9r6uxC9/view?usp=sharing) to the following path:
+```
+PLHN/data
+```
+3.Download [model](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link) weights and paste latest_model.pth in the following path:
+```
+PLHN/checkpoints_RUENT_8/runet_4/model
+```
+4.If you just need to test the model
 ```
 python test.py
 ```
