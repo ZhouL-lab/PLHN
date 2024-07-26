@@ -5,8 +5,7 @@ import SimpleITK as sitk
 from options.Options import Options_x
 from dataset.dataset_lits_train import Lits_DataSet
 from dataset.dataset_lits_test import Test_Datasets
-#from Model.TokenSegV8_prototype_fusion_attention import TokenSegV8
-from Model.TokenSegV8_prototype_fusion_attention_sampling import TokenSegV8
+from Model.TokenSegV8_prototype_fusion_attentions import TokenSegV8
 from modelv5.loss_proto import PixelPrototypeCELoss,PPD,PPC
 from torch.utils.data import DataLoader
 from utils.common import adjust_learning_rate
