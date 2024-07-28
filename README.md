@@ -61,3 +61,17 @@ python evaluation/test.py
 ```
 ## Citation
 If you use our work, please consider citing:
+```
+```
+ALMN is our 2022 work published in Pattern Recognition, If you use our work, please consider citing:
+```
+@article{zhou2022three,
+  title={Three-dimensional affinity learning based multi-branch ensemble network for breast tumor segmentation in MRI},
+  author={Zhou, Lei and Wang, Shuai and Sun, Kun and Zhou, Tao and Yan, Fuhua and Shen, Dinggang},
+  journal={Pattern Recognition},
+  volume={129},
+  pages={108723},
+  year={2022},
+  publisher={Elsevier}
+}
+```
