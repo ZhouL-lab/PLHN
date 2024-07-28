@@ -63,7 +63,7 @@ python evaluation/test.py
 If you use our work, please consider citing:
 ```
 ```
-ALMN is our 2022 work published in Pattern Recognition, If you use our work, please consider citing:
+ALMN is our work published in Pattern Recognition in 2022, If you use our work, please consider citing:
 ```
 @article{zhou2022three,
   title={Three-dimensional affinity learning based multi-branch ensemble network for breast tumor segmentation in MRI},
