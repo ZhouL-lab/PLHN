@@ -62,6 +62,17 @@ python evaluation/test.py
 ## Citation
 If you use our work, please consider citing:
 ```
+@ARTICLE{10614219,
+  author={Zhou, Lei and Zhang, Yuzhong and Zhang, Jiadong and Qian, Xuejun and Gong, Chen and Sun, Kun and Ding, Zhongxiang and Wang, Xing and Li, Zhenhui and Liu, Zaiyi and Shen, Dinggang},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Magnetic resonance imaging;Breast tumor segmentation;Hybrid network;Transformer;Prototype learning},
+  doi={10.1109/TMI.2024.3435450}}
+
 ```
 ALMN is our work published in Pattern Recognition in 2022, If you use our work, please consider citing:
 ```
