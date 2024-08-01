@@ -74,7 +74,7 @@ If you use PLHN for your research, please cite our papers:
   doi={10.1109/TMI.2024.3435450}}
 
 ```
-ALMN is our work published in Pattern Recognition in 2022, If you use ALMN for your research, please cite our papers:
+ALMN is our work published in *Pattern Recognition* in 2022. If you use ALMN for your research, please cite our papers:
 ```
 @article{zhou2022three,
   title={Three-dimensional affinity learning based multi-branch ensemble network for breast tumor segmentation in MRI},
