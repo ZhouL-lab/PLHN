@@ -15,7 +15,7 @@ Some important required packages include:
 * torch==1.9.0
 * Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
 ## Dataset
-A total of three datasets were used in our paper, among which two private datasets were breast cancer and thymus tumor, and the other dataset was a publicly available breast tumor dataset. If you wish to download this publicly available dataset , please refer to the relevant [paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00195-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389923001952%3Fshowall%3Dtrue)/[ZENODO](https://zenodo.org/records/8068383).\
+A total of three datasets were used in our paper, among which two private datasets were breast cancer and thymus tumor, and the other dataset was a publicly available breast tumor dataset. If you wish to download this publicly available dataset, please refer to the relevant [paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00195-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389923001952%3Fshowall%3Dtrue)/[ZENODO](https://zenodo.org/records/8068383).\
 Additionally, we provide a publicly available breast cancer [dataset](https://drive.google.com/file/d/1ciSV337l9uyoou2GfbSRHPxHH9r6uxC9/view?usp=sharing) after processing.
 ```
 YNpre
@@ -41,7 +41,7 @@ YNpre
 ```
 If you require MRI breast tumor segmentation weights, download the [model checkpoint](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link).
 ## Training
-Train the model and infers
+Train the model and infers.
 ```
 python training/main.py
 ```
