@@ -46,16 +46,16 @@ Train the model and infers
 python training/main.py
 ```
 ## Evaluation
-1.Clone the repo\
+1.Clone the repo.\
 2.Download the [dataset](https://drive.google.com/file/d/1ciSV337l9uyoou2GfbSRHPxHH9r6uxC9/view?usp=sharing) to the following path:
 ```
 PLHN/data
 ```
-3.Download [model](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link) weights and paste latest_model.pth in the following path:
+3.Download [model](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link) weights and paste *latest_model.pth* in the following path:
 ```
 PLHN/checkpoints/task1_breast_tumor/model
 ```
-4.If you just need to test the model
+4.If you only need to test the model.
 ```
 python evaluation/test.py
 ```
