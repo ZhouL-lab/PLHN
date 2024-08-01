@@ -60,7 +60,7 @@ PLHN/checkpoints/task1_breast_tumor/model
 python evaluation/test.py
 ```
 ## Citation
-If you use our work, please consider citing:
+If you use PLHN for your research, please cite our papers:
 ```
 @ARTICLE{10614219,
   author={Zhou, Lei and Zhang, Yuzhong and Zhang, Jiadong and Qian, Xuejun and Gong, Chen and Sun, Kun and Ding, Zhongxiang and Wang, Xing and Li, Zhenhui and Liu, Zaiyi and Shen, Dinggang},
@@ -74,7 +74,7 @@ If you use our work, please consider citing:
   doi={10.1109/TMI.2024.3435450}}
 
 ```
-ALMN is our work published in Pattern Recognition in 2022, If you use our work, please consider citing:
+ALMN is our work published in Pattern Recognition in 2022, If you use ALMN for your research, please cite our papers:
 ```
 @article{zhou2022three,
   title={Three-dimensional affinity learning based multi-branch ensemble network for breast tumor segmentation in MRI},
