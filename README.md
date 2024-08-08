@@ -61,6 +61,11 @@ PLHN/checkpoints/task1_breast_tumor/model
 ```
 python evaluation/test.py
 ```
+## Classification
+The HER2 classification was performed by using the radiomics features.
+```
+python radiomics/mlclass.py
+```
 ## Citation
 If you use PLHN for your research, please cite our papers:
 ```
