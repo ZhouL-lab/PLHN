@@ -1,6 +1,6 @@
 # Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI([Transaction on Medical Imaging 2024](https://ieeexplore.ieee.org/document/10614219))
 ## Paper 
-Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI\
+**Prototype Learning Guided Hybrid Network for Breast Tumor Segmentation in DCE-MRI**
 Lei Zhou, Yuzhong Zhang, Jiadong Zhang, Xuejun Qian, Chen Gong, Kun Sun, Zhongxiang Ding, Xing Wang, Zhenhui Li, Zaiyi Liu, and Dinggang Shen
 [IEEE TMI 2024](https://ieeexplore.ieee.org/document/10614219)/[arXiv]()
 ## Abstract
