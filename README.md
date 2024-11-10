@@ -47,7 +47,7 @@ YNpre
 If you require MRI breast tumor segmentation weights, download the [model checkpoint](https://drive.google.com/drive/folders/1XjBD-ylWbvKE4ND7yGjbaiE2_dM9Mw8l?usp=drive_link).
 ## Whole Breast Segmentation Model
 * The whole breast segmentation process can be used to remove the oversegmentation on non-breast regions.
-* Partial images and whole breast annotations are available at: [https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation](https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation)
+* Whole breast segmentation model is available at: [https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation](https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation)
 ## Training
 Train the model and infers.
 ```
